@@ -1,0 +1,24 @@
+
+
+body {background-color:#636363;}
+
+input[type=text]
+{
+    background-color: #BFBDBD;
+    border:solid 1px #BFBDBD;
+    color: #979797;
+    height: 28px;
+    padding-left:10px;
+    width: 150px;
+    box-shadow: 2px 2px 0 #828181 inset;
+	 margin:10px;
+	 text-align:center;
+	 text-size:20px;
+	 text-color:black;
+}
+
+main{
+	width:420;
+	text-align:center;
+	margin:0 auto;
+}
