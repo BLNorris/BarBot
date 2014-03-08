@@ -3,7 +3,7 @@ source 'https://rubygems.org/'
 
 #prod
 gem 'sinatra'
-
+gem 'serialport'
 
 
 group :test do

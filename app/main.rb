@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require 'serialport'
 require_relative 'functions'
 
 class MainProgram < Sinatra::Base
